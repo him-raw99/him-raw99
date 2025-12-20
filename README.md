@@ -5,7 +5,7 @@
 [![Email][emailbadge]][email]
 
 ### A Software Developer from India 
-- Currently working at [Xeno](https://getxeno.com) as a SDE Intern
+- Currently working at [Xeno](https://getxeno.com) as a SDE
 - Checkout my Projects and Experience on my [Website][website]
 - Fun Fact - I'm most likely binge watching something right now
 
