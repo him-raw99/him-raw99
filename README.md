@@ -7,7 +7,7 @@
 ### A Software Developer from India 
 - Currently working at [Xeno](https://getxeno.com) as a SDE
 - Checkout my Projects and Experience on my [Website][website]
-- Fun Fact - I'm most likely binge watching something right now
+- Fun Fact - I can reverse a linked list 🥀
 
 [email]: mailto://him.raw.officia1@gmail.com
 [website]: https://himraw99.vercel.app/
